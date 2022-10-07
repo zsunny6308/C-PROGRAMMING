@@ -28,8 +28,3 @@ void swapNumbers(int *x,int *y,int *z)
     *x=*z;
     *z=tmp;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privac
